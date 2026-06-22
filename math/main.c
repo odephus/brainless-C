@@ -2,11 +2,10 @@
 #include<locale.h>
 #include<string.h> // -> unutma string işleri için mutlak bir kütüphane
 #include<stdbool.h>
-
-//YORULDUM AZ MOLA 18 hazişran 21:46 gelince alt satıra yazarım
-// aga yks girdim çıktım da 21 haziran şimdi ben bi fgets yazım geliom tm?
+#include<math.h>
 
 int main(){
     setlocale(LC_ALL,"tr_TR.UTF8");
+    //SIKICI LA BU
     return 0;
 }

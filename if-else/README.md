@@ -1,0 +1,1 @@
+AGA if/else kullanmayı biliom tabiki ama anterneman uuuussssuuuulü
