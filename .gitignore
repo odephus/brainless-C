@@ -2,6 +2,6 @@
 *.o
 *.obj
 *.out
-
+base.txt
 vscode/
 cmake-build-debug/
