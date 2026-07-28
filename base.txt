@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<locale.h>
-#include<string.h> // -> unutma string işleri için mutlak bir kütüphane
+#include<string.h>
 #include<stdbool.h>
 
 int main(){
